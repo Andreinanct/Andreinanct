@@ -8,7 +8,7 @@
 * 📚   Leyendo 《Vida 3.0》《Superinteligencia: Caminos, peligros, estrategias (Spanish Edition)》.
 * ⛵   Encantada de conocer personas nuevas, a modo de adquirir y compartir conocimiento.
 
-  ⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 78.43 %
+  ⏳ Year progress { █████████████████████__▁▁▁▁▁▁▁ } 70.43 %
 
 ---
 
