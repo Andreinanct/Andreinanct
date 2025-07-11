@@ -1,8 +1,6 @@
 # Hola! 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)    
 
 * 🧐   Interesada en el desarrollo de videojuegos, Hackin Ético, Inteligencia Artificial, Ciberseguridad y animación.
 *  💼  Actualmente soy una estudiante de Ing. en Sistemas.
